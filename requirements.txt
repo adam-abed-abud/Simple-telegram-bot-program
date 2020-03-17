@@ -1,0 +1,11 @@
+pip install -r requirements.txt
+
+
+sudo pip install telepot
+
+sudo pip install apscheduler==2.1.2
+sudo pip install apscheduler
+
+
+
+
